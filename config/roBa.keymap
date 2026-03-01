@@ -41,7 +41,7 @@
 
         delete {
             bindings = <&kp DELETE>;
-            key-positions = <9 8>;
+            key-positions = <9 8 7>;
         };
 
         BackSpace {
