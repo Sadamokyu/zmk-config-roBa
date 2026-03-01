@@ -53,6 +53,11 @@
             bindings = <&kp LC(LG(S))>;
             key-positions = <11 12 13>;
         };
+
+        blue-change {
+            bindings = <&lt 4 LEFT_CONTROL>;
+            key-positions = <38 39 37>;
+        };
     };
 
     macros {
