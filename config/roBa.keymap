@@ -58,6 +58,11 @@
             bindings = <&lt 4 LEFT_CONTROL>;
             key-positions = <38 39 37>;
         };
+
+        scroll {
+            bindings = <&lt_to_layer_0 5 LEFT_CONTROL>;
+            key-positions = <35 36>;
+        };
     };
 
     macros {
