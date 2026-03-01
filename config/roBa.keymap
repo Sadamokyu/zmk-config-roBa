@@ -50,7 +50,7 @@
         };
 
         win_crtl_S {
-            bindings = <&kp LC(LG(S))>;
+            bindings = <&kp LG(LS(S))>;
             key-positions = <11 12 13>;
         };
 
